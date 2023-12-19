@@ -1,4 +1,4 @@
-# Data-Capstone-Project-DAPP-911-calls: 911 Emergency Call Analysis: Uncovering Insights for Enhanced Emergency Response Management
+# Data-Capstone-Project-DAPP-911-calls: 911 Emergency Call Analyses: Uncovering Insights for Enhanced Emergency Response Management
 
 Introduction:
 This study delves into the intricate landscape of 911 emergency calls, employing a multifaceted approach to analyze response times, geographical patterns, temporal dynamics, and predictive modeling. Through systematic calculations and visualizations, we aim to unveil crucial insights that can inform and optimize emergency response management. From response time variations to township-level efficiency, temporal trends, and predictive modeling, our exploration provides a comprehensive understanding of the factors shaping emergency call patterns.This project is developed on a Jupyter notebook using Python with Numpy, and Pandas data analysis libraries. This project also uses Matplotlib and Seaborn data visualization libraries for to generate visualizations like histograms, scatter plots, bar charts, and pie charts.
