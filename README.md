@@ -21,10 +21,15 @@ In the final stretch, we conduct a thorough correlation analysis on selective va
 In our exploration of selective variables within the 911 emergency call dataset, we unravelled nuanced correlations in five key aspects:
 
 a)	Response Time and Other Variables: Unveiling the interplay between response times and various factors, this sheds light on optimizing emergency service efficiency.
+
 b)	Call Volume by Day and Other Variables: Delving into daily call volume patterns, we uncovered correlations, providing insights into contextual factors influencing daily call volumes.
+
 c)	Call Volume Metrics: Examining the correlation matrix for call volume metrics, enriching our understanding of the multifaceted nature of emergency call data.
+
 d)	Call Counts and Call Volumes: Analyzing the relationship between call counts and volumes elucidates insights pivotal for resource allocation and optimizing response strategies.
+
 e)	Call Volumes and Call Reasons: Exploring correlations between call volumes and specific reasons deepens our understanding of contextual triggers, offering valuable insights into emergency incident nature and distribution.
+
 Conclusion:
 In concluding this study, our holistic exploration of 911 emergency call data has yielded valuable insights essential for optimizing emergency response systems. From understanding response time dynamics to dissecting correlations and predictive patterns, each analysis contributes to a nuanced understanding of the intricate factors influencing emergency incidents. This study not only enhances comprehension of the dataset but also lays the groundwork for data-driven decision-making in emergency response management, ultimately advancing the efficacy and responsiveness of the 911 system for improved public safety outcomes.
 
